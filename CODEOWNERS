@@ -1,4 +1,10 @@
-IyBUaGlzIGZpbGUKQ09ERU9XTkVSUyBATWFyZmVlbC9Gcm9udGVuZC1UZWFj
-aGxlYWRzCgojIFBhaWQgaW1wcmVzc2lvbnMKdHdpc3Rlci5qc29uIEBNYXJm
-ZWVsL0FMT1QKCiMgVUkKdWkuanNvbiBATWFyZmVlbC9VWAoqLnNjc3MgQE1h
-cmZlZWwvVVgKCg==
+# This file
+CODEOWNERS @Marfeel/Frontend-Teachleads
+
+# Paid impressions
+twister.json @Marfeel/ALOT
+
+# UI
+ui.json @Marfeel/UX
+*.scss @Marfeel/UX
+
